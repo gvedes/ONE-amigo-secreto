@@ -1,6 +1,6 @@
 # ONE-amigo-secreto 🎁
 Primeiro Challenge do &lt;Hello, ONE!/>__ Desenvolvimento de uma aplicação em que o usuário adicione nomes de seus amigos ou familiares e em seguida, efetue um sorteio.
-Bem-vindo à aplicação web de Amigo Secreto! Esta ferramenta foi desenvolvida para facilitar a organização da sua brincadeira de amigo secreto, permitindo o gerenciamento dos participantes e realizando o sorteio de forma aleatória e justa.
+\nBem-vindo à aplicação web de Amigo Secreto! Esta ferramenta foi desenvolvida para facilitar a organização da sua brincadeira de amigo secreto, permitindo o gerenciamento dos participantes e realizando o sorteio de forma aleatória e justa.
 
 ## Como Usar 🔄
 
