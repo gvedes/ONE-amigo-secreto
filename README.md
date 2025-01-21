@@ -1,6 +1,5 @@
 # ONE-amigo-secreto 🎁
-Primeiro Challenge do &lt;Hello, ONE!/>__ Desenvolvimento de uma aplicação em que o usuário adicione nomes de seus amigos ou familiares e em seguida, efetue um sorteio.
-\nBem-vindo à aplicação web de Amigo Secreto! Esta ferramenta foi desenvolvida para facilitar a organização da sua brincadeira de amigo secreto, permitindo o gerenciamento dos participantes e realizando o sorteio de forma aleatória e justa.
+Primeiro Challenge do &lt;Hello, ONE!/>__ Desenvolvimento de uma aplicação em que o usuário adicione nomes de seus amigos ou familiares e em seguida, efetue um sorteio. Esta ferramenta foi desenvolvida para facilitar a organização a brincadeira de amigo secreto, permitindo o gerenciamento dos participantes e realizando o sorteio de forma aleatória.
 
 ## Como Usar 🔄
 
@@ -21,13 +20,10 @@ Primeiro Challenge do &lt;Hello, ONE!/>__ Desenvolvimento de uma aplicação em 
 ## Tecnologias Utilizadas 🛠️
 
 O projeto foi desenvolvido utilizando tecnologias web modernas:
-
 - HTML5 para estruturação do conteúdo
 - CSS3 para estilização
 - JavaScript puro para a lógica de programação
 - Google Fonts (famílias Inter e Merriweather)
-
-## Como Funciona
 
 ### Interface do Usuário
 
